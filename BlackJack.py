@@ -6,8 +6,8 @@ from discord.ext import commands
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-admin_id = 1218194406147096580
-TOKEN = "MTIyNjE5MTc4NzE0MDQ1MjUyMw.GwKf7G.05CDnRJJaSid3jbJ-Nv-IIzgweTQPIWBp5gAF8"
+admin_id = 
+TOKEN = ""
 
 @bot.event
 async def on_ready():
